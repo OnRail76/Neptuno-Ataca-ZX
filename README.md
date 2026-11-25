@@ -1,5 +1,7 @@
 # NEPTUNO ATACA — V1.0
 
+<p align="center"><img src="ARTE/01_CARATULA_OFICIAL_SPECTRUM.png" alt="Carátula oficial de NEPTUNO ATACA" width="520"></p>
+
 **Tony C. Ware · 2026 · ZX Spectrum 48K**
 
 Matamarcianos vertical de cinco fases, escrito en ensamblador Z80, con scroll continuo, multicarga de cinta y sonido beeper.
@@ -42,7 +44,11 @@ GRIT ENGINE: renderizado Stack Blast, sprites predesplazados, oleadas coreografi
 
 ## Descargas
 
-La V1.0 está aprobada. La subida de los archivos y la publicación de la release están pendientes.
+- [Juego V1.0 — TAP](NEPTUNO_ATACA_V1.0.tap)
+- [Manual oficial, atlas y memoria técnica — PDF](NEPTUNO_ATACA_V1.0_MANUAL_ATLAS_MEMORIA.pdf)
+- [Edición completa y archivos de la release](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases/tag/v1.0)
+
+![Captura del Mediterráneo](DOCUMENTACION/CAPTURAS/captura_fase1.png)
 
 [Releases](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases)
 

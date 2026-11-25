@@ -1,0 +1,16 @@
+{
+  "tone": 41510,
+  "hi": 41516,
+  "lo": 41525,
+  "initial_release": 41534,
+  "press": 41541,
+  "confirm": 41548,
+  "release_reset": 41555,
+  "release": 41557,
+  "load_engine": 41568,
+  "fire": 41603,
+  "yes": 41625,
+  "no": 41629,
+  "error": 41631,
+  "header": 41640
+}

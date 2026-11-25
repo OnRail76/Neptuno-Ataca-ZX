@@ -1,0 +1,11 @@
+title original melody: one-shot, silent after end, 360 polls PASS
+interruptible title + cheat PASS
+beep 4 interrupts, 33 port writes, priority and IRQ deadline PASS
+sfx_spread 5 interrupts, 51 port writes, priority and IRQ deadline PASS
+sfx_hit 3 interrupts, 147 port writes, priority and IRQ deadline PASS
+sfx_power 9 interrupts, 128 port writes, priority and IRQ deadline PASS
+boom 8 interrupts, 61 port writes, priority and IRQ deadline PASS
+sfx_heavy 12 interrupts, 96 port writes, priority and IRQ deadline PASS
+sfx_death 15 interrupts, 124 port writes, priority and IRQ deadline PASS
+sfx_boss 15 interrupts, 118 port writes, priority and IRQ deadline PASS
+actual shot, spread, heavy damage, destruction, death, pickup and boss routing PASS

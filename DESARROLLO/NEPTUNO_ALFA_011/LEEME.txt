@@ -1,0 +1,18 @@
+NEPTUNO ATACA — ALFA 0.11 — Pulido gráfico
+ZX Spectrum 48K / Tony C. Ware
+Base: ALFA 0.10 (edición sonora), conservada sin cambios.
+
+CAMBIOS
+- HUD: nombres MEDITERRANEO, GRECIA, SIRIA, FRANCIA, BARCELONA en letra nativa compacta, centrados y con el color de la fase. Se escriben únicamente en la inicialización.
+- Terrenos: Mediterráneo y Grecia idénticos. Siria, Francia y Barcelona reconstruidos con el generador V2: textura únicamente en celdas homogéneas y vacías. Para ajustar el banco se han estandarizado algunos modelos completos de edificios secundarios dentro de sus huellas originales: 22 en Siria, 5 en Francia, 3 en Barcelona. Ningún edificio inicial de Barcelona se ha estandarizado. Se mantienen monumentos, carreteras, costas, superficies de colisión y rutas. No hay sustituciones de tiles en ningún nivel. El banco contiene 489, 418, 510, 505 y 508 tiles distintos, respectivamente.
+- Sin cambios en las reglas de juego, tablas de oleadas, rutas, sprites, audio ni formato de multicarga. El código residente se ha reensamblado y sus direcciones internas pueden diferir.
+
+PRUEBAS
+- test_polish.py: inicialización de los cinco niveles, HUD real, colores, rutas y sprites comparados con 0.10; primeros dos bancos de terreno idénticos. Para las comparaciones requiere carpeta hermana NEPTUNO_ALFA_010.
+- test_campaign011.py: carga inicial, truco, cinco transiciones, derrota de jefes, pantalla final y 12 vectores de disparo dirigido: PASS.
+- test_audio.py: melodía de una sola reproducción, prioridades, eventos y salida del beeper: PASS.
+- test_render.py: pruebas parciales con SPREAD, reconstrucción del fondo y atributos estáticos; Barcelona hasta al menos fotograma 500. No se completaron los recorridos de rendimiento por límite de ejecución. No se certifica rendimiento completo ni prueba real ULA/audio.
+- Todos los TAP llevan checksums comprobados. Capturas PNG obtenidas de memoria de vídeo del simulador, no mockups.
+
+REENSAMBLAR
+python pack.py (Python 3, numpy, Pillow). Los mapas ya corregidos se incluyen en assets; no es necesario regenerarlos. Regeneración opcional: scenery_source.py requiere el ZIP original de recursos SMS (ruta configurable NEPTUNO_SMS_ASSETS); después ejecutar polish_maps.py. scenery_report.json registra decisiones. Para las pruebas: python test_campaign011.py, python test_audio.py, python test_render.py 5.
