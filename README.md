@@ -44,7 +44,7 @@ GRIT ENGINE: renderizado Stack Blast, sprites predesplazados, oleadas coreografi
 
 ## Novedades de la V1.1
 
-Dron circular, pájaro estilo Phoenix con aleteo, torretas direccionales y corrección de la animación del soldado. Se conservan los cinco mapas originales, la campaña, las oleadas, los jefes y el sonido. Edición aprobada por el autor.
+UFO circular, CHICKEN con aleteo, TURRET direccional y corrección de la animación de NEPTUNIAN. TANK se conserva. Se conservan los cinco mapas originales, la campaña, las oleadas, los jefes y el sonido. Edición aprobada por el autor.
 
 ## Descargas
 

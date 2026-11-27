@@ -3,11 +3,11 @@ Tony C. Ware · 2026 · ZX Spectrum 48K · GRIT ENGINE
 
 Versión definitiva aprobada por el autor tras jugarla en su emulador.
 
-- Dron circular sin pinchos, con dos poses de animación.
-- Pájaro estilo Phoenix con tres poses de aleteo.
-- Torreta circular de cuatro orientaciones.
-- Corregida la selección del segundo fotograma de marcha del soldado.
-- Los cinco mapas, oleadas, rutas, soldados, tanques, jefes, música, efectos y pantallas originales se conservan.
+- UFO circular sin pinchos, con dos poses de animación.
+- CHICKEN estilo Phoenix con tres poses de aleteo.
+- TURRET circular de cuatro orientaciones.
+- Corregida la selección del segundo fotograma de marcha de NEPTUNIAN.
+- Los cinco mapas, oleadas, rutas, NEPTUNIAN, TANK, jefes, música, efectos y pantallas originales se conservan.
 - Los aéreos utilizan cuatro predesplazamientos horizontales, sin cambiar sus coordenadas lógicas.
 
 El TAP es idéntico al de la V1.1 revisada aprobada. SHA-256: `2b83182b51f5d52392649b939894f518029a17a89a395172a47143db70946413`.
