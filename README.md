@@ -44,7 +44,7 @@ GRIT ENGINE: renderizado Stack Blast, sprites predesplazados, oleadas coreografi
 
 ## Novedades de la V1.1
 
-UFO circular, CHICKEN con aleteo, TURRET direccional y corrección de la animación de NEPTUNIAN. TANK se conserva. Se conservan los cinco mapas originales, la campaña, las oleadas, los jefes y el sonido. Edición aprobada por el autor.
+Diseño gráfico renovado de UFO, CHICKEN y TURRET. Animación de NEPTUNIAN corregida. TANK, los cinco escenarios, las oleadas, los jefes y el apartado sonoro se mantienen sin cambios.
 
 ## Descargas
 
@@ -53,14 +53,8 @@ UFO circular, CHICKEN con aleteo, TURRET direccional y corrección de la animaci
 - [Release V1.1 y fuentes](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases/tag/v1.1)
 - [Notas de la revisión](DESARROLLO/V1.1/RELEASE_NOTES.md)
 
-### Edición histórica V1.0
-
-- [Juego V1.0 — TAP](NEPTUNO_ATACA_V1.0.tap)
-- [Manual original V1.0, atlas y memoria técnica — PDF (sprites anteriores)](NEPTUNO_ATACA_V1.0_MANUAL_ATLAS_MEMORIA.pdf)
-- [Edición completa y archivos de la release](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases/tag/v1.0)
-
 ![Captura del Mediterráneo V1.1](DOCUMENTACION/CAPTURAS_V1.1/captura_fase1.png)
 
-[Releases](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases)
+[Descargas oficiales](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases)
 
 © 2026 Tony C. Ware.
