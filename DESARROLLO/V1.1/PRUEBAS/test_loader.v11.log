@@ -1,0 +1,11 @@
+NEPTUNO_ATACA_BARCELONA_V1.1.tap checksums, loader and screens PASS
+NEPTUNO_ATACA_FRANCIA_V1.1.tap checksums, loader and screens PASS
+NEPTUNO_ATACA_GRECIA_V1.1.tap checksums, loader and screens PASS
+NEPTUNO_ATACA_SIRIA_V1.1.tap checksums, loader and screens PASS
+NEPTUNO_ATACA_V1.1.tap checksums, loader and screens PASS
+Boot stage 1 space hold/release, BEEP, title: PASS
+Boot stage 1 kempston hold/release, BEEP, title: PASS
+Boot stage 2 space hold/release, BEEP, title: PASS
+Boot stage 2 kempston hold/release, BEEP, title: PASS
+Phase change space held key does not start ROM load: PASS
+Phase change kempston held key does not start ROM load: PASS

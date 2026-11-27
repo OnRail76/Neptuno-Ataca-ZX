@@ -1,0 +1,10 @@
+level 1 spawned Counter({0: 17, 1: 14, 2: 1}) ground exits Counter({2: 1}) speeds Counter() ground fired 1 of 1
+level 2 spawned Counter({1: 15, 0: 11, 2: 2}) ground exits Counter({2: 2}) speeds Counter() ground fired 2 of 2
+level 3 spawned Counter({3: 10, 4: 5, 1: 5, 2: 1, 0: 1}) ground exits Counter({3: 10, 4: 5, 2: 1}) speeds Counter({(3, 1): 1150, (4, 1): 955, (3, 2): 380}) ground fired 16 of 16
+level 4 spawned Counter({4: 6, 3: 5, 1: 5, 0: 3, 2: 1}) ground exits Counter({4: 6, 3: 5, 2: 1}) speeds Counter({(4, 1): 1146, (3, 1): 575, (3, 2): 190}) ground fired 12 of 12
+level 5 spawned Counter({3: 6, 1: 6, 4: 5, 0: 4, 2: 1}) ground exits Counter({3: 6, 4: 5, 2: 1}) speeds Counter({(4, 1): 955, (3, 1): 690, (3, 2): 228}) ground fired 12 of 12
+resistance level 1 2/3 hits PASS
+resistance level 2 2/3 hits PASS
+resistance level 3 2/3 hits PASS
+resistance level 4 2/3 hits PASS
+resistance level 5 2/3 hits PASS

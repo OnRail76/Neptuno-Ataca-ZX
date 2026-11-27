@@ -1,0 +1,9 @@
+frame 2 0 A/B 53862 51869 remaining 767 boss 0
+frame 2 100 A/B 61064 60232 remaining 667 boss 0
+frame 2 200 A/B 64384 62216 remaining 567 boss 0
+frame 2 300 A/B 58946 58505 remaining 467 boss 0
+frame 2 400 A/B 56115 54009 remaining 367 boss 0
+frame 2 500 A/B 63470 62262 remaining 267 boss 0
+frame 2 600 A/B 56754 55675 remaining 167 boss 0
+frame 2 700 A/B 52532 50406 remaining 67 boss 1
+level 2 worst [66736, 67013] overruns [] 0 boss 2

@@ -1,4 +1,4 @@
-# NEPTUNO ATACA — V1.0
+# NEPTUNO ATACA — V1.1
 
 <p align="center"><img src="ARTE/01_CARATULA_OFICIAL_SPECTRUM.png" alt="Carátula oficial de NEPTUNO ATACA" width="520"></p>
 
@@ -42,10 +42,20 @@ Utiliza un ZX Spectrum 48K o un emulador compatible. Carga el TAP mediante `LOAD
 
 GRIT ENGINE: renderizado Stack Blast, sprites predesplazados, oleadas coreografiadas y desplazamiento de un píxel. GRIT BEEPER ENGINE: melodía original y efectos sonoros.
 
+## Novedades de la V1.1
+
+Dron circular, pájaro estilo Phoenix con aleteo, torretas direccionales y corrección de la animación del soldado. Se conservan los cinco mapas originales, la campaña, las oleadas, los jefes y el sonido. Edición aprobada por el autor.
+
 ## Descargas
 
+- [Juego V1.1 — TAP](NEPTUNO_ATACA_V1.1.tap)
+- [Release V1.1 y fuentes](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases/tag/v1.1)
+- [Notas de la revisión](DESARROLLO/V1.1/RELEASE_NOTES.md)
+
+### Edición histórica V1.0
+
 - [Juego V1.0 — TAP](NEPTUNO_ATACA_V1.0.tap)
-- [Manual oficial, atlas y memoria técnica — PDF](NEPTUNO_ATACA_V1.0_MANUAL_ATLAS_MEMORIA.pdf)
+- [Manual original V1.0, atlas y memoria técnica — PDF (sprites anteriores)](NEPTUNO_ATACA_V1.0_MANUAL_ATLAS_MEMORIA.pdf)
 - [Edición completa y archivos de la release](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases/tag/v1.0)
 
 ![Captura del Mediterráneo](DOCUMENTACION/CAPTURAS/captura_fase1.png)

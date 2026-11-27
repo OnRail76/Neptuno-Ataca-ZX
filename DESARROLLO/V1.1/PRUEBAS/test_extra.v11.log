@@ -1,0 +1,12 @@
+Kempston load + title cheat PASS
+death/respawn 40 + 35 + 150 ticks PASS
+boss 1 four attack bands [(48, 0, 2, 0, 140), (48, 1, 2, 0, 136), (32, 0, 2, 0, 255), (52, 2, 0, 42, 255)]
+boss 2 four attack bands [(52, 0, 2, 0, 255), (48, 1, 2, 0, 136), (32, 0, 2, 0, 255), (52, 2, 0, 42, 255)]
+boss 3 four attack bands [(52, 0, 2, 0, 255), (48, 1, 2, 0, 136), (48, 2, 0, 46, 255), (52, 2, 0, 42, 255)]
+boss 4 four attack bands [(72, 255, 2, 0, 134), (48, 1, 2, 0, 136), (32, 0, 2, 0, 255), (52, 2, 0, 42, 255)]
+boss 5 four attack bands [(92, 0, 2, 34, 255), (48, 2, 0, 46, 136), (48, 2, 0, 46, 255), (56, 2, 0, 38, 255)]
+level 1 ball sprite and exact phase memory PASS
+level 2 ball sprite and exact phase memory PASS
+level 3 ball sprite and exact phase memory PASS
+level 4 ball sprite and exact phase memory PASS
+level 5 ball sprite and exact phase memory PASS
