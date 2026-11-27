@@ -49,6 +49,7 @@ UFO circular, CHICKEN con aleteo, TURRET direccional y corrección de la animaci
 ## Descargas
 
 - [Juego V1.1 — TAP](NEPTUNO_ATACA_V1.1.tap)
+- [Manual, atlas y memoria técnica V1.1 — PDF](NEPTUNO_ATACA_V1.1_MANUAL_ATLAS_MEMORIA.pdf)
 - [Release V1.1 y fuentes](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases/tag/v1.1)
 - [Notas de la revisión](DESARROLLO/V1.1/RELEASE_NOTES.md)
 
@@ -58,7 +59,7 @@ UFO circular, CHICKEN con aleteo, TURRET direccional y corrección de la animaci
 - [Manual original V1.0, atlas y memoria técnica — PDF (sprites anteriores)](NEPTUNO_ATACA_V1.0_MANUAL_ATLAS_MEMORIA.pdf)
 - [Edición completa y archivos de la release](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases/tag/v1.0)
 
-![Captura del Mediterráneo](DOCUMENTACION/CAPTURAS/captura_fase1.png)
+![Captura del Mediterráneo V1.1](DOCUMENTACION/CAPTURAS_V1.1/captura_fase1.png)
 
 [Releases](https://github.com/OnRail76/Neptuno-Ataca-ZX/releases)
 
